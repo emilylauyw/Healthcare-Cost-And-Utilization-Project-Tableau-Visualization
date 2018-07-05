@@ -22,7 +22,7 @@ First, I look through the dataset to find the relevant variables that will be us
 - The age group of 18-24 years old are not affected by Acute Myocardial Infarction (Heart Attack) and Coronary Heart Disease.
 
 ### Files
-1. ```Screenshots/HCUP_Visualization.png``` visualization image of Passenger survival by Age, Sex and Ticket class
+1. ```Screenshots/HCUP_Visualization.png``` visualization image of HCUP
 2. ```Healthcare_Cost_and_Utilization_ Project.twbx``` Tableau Packaged Workbook file.
 3.  ```Healthcare_Cost_and_Utilization_Project__HCUP__-_National_Inpatient_Sample.csv``` contains the raw dataset.
 
